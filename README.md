@@ -6,7 +6,7 @@ The goal is to build hands-on experience with **parallel programming**, **GPU co
 ---
 
 ##  Repository Structure
-- `prog1.cpp` → First CUDA program (basic setup)
+- `demo.ipynb` → First CUDA program (basic setup)
 - Future files will include CUDA kernels, memory management, and performance test programs.
 
 ---
